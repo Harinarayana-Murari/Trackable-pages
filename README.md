@@ -77,6 +77,6 @@ You can try the live version of this tool hosted on Render:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
-Bhargav Mupparisetty
+Harinarayana Murari
 
 
